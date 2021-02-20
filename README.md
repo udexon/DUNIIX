@@ -1,7 +1,7 @@
 # DUNIIX
 DUNIIX: Decentralized User Centric Interface
 
-We coined the name DUNIIX to highlight the Decentralized nature of DUNIIX with respect to UNIX.
+We coined the name DUNIIX to highlight the Decentralized nature of DUNIIX, in contrast to the centralized systems inherited from UNIX.
 
 DUNIIX is also very different from Blockchains as we are "User Centric", hence the "U" in DUNIIX.
 
