@@ -23,6 +23,7 @@ There is another way that DUDE can be hosted in an "offline" mode, as illustrate
 3. A (Mr. Anyone) downloads Udexon PBK, generates DUCT token.
 
 4. A uploads DUCT token to the Issues section on Udexon github repository.
+5. As DUNIIX is an ongoing project, additional modules need to be developed after DUCT tokens are generated and exchanged amongst various parties concerned.
 
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
 
