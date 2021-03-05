@@ -5,8 +5,14 @@ In [DUDE: Decentralized User Centric Donation Scheme](https://github.com/udexon/
 - _NO free software programmer since Richard Stallman has been able to create a universal donation scheme to allow free software programmers to receive donations in small amounts from arbitrary donors._
 
 1. https://github.com/udexon/DUNIIX/blob/main/img/DUNIIX-Messaging.mp4
-2. https://github.com/udexon/DUNIIX/blob/main/img/DUNIIX-DUCT.mp4
+  - In this video, we show DUNIIX Messaging module (DUMES).
 
+2. https://github.com/udexon/DUNIIX/blob/main/img/DUNIIX-DUCT.mp4
+  - In this video, we show DUNIIX Decentralized User Contract Token DUCT.
+
+(2) was implemented and tested with 2 web clients and the DUDE PHP server, all running on one Linux host.
+
+In practice, DUDE needs to be hosted on a server with public IP or via a SSH tunnel.
 
 
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
