@@ -14,6 +14,15 @@ In [DUDE: Decentralized User Centric Donation Scheme](https://github.com/udexon/
 
 In practice, DUDE needs to be hosted on a server with public IP or via a SSH tunnel.
 
+There is another way that DUDE can be hosted in an "offline" mode, as illustrated below.
+
+1. Mr. Udexon (owner of this github account) published his (her) public key in a file on github:
+
+2. Mr. Anyone (or Someone) wishes to donate USD 10 to Udexon.
+
+3. A (Mr. Anyone) downloads Udexon PBK, generates DUCT token.
+
+4. A uploads DUCT token to the Issues section on Udexon github repository.
 
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
 
