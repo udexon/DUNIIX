@@ -6,10 +6,10 @@ In [DUDE: Decentralized User Centric Donation Scheme](https://github.com/udexon/
 
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
 
-<img src="https://github.com/udexon/DUNIIX/blob/main/img/DUNIIX_Phoshell.png“ width=600>
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/DUNIIX_Phoshell.png" width=600>
           
-<img src="https://github.com/udexon/DUNIIX/blob/main/img/DUDE_DUCT.png“ width=600>          
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/DUDE_DUCT.png" width=600>          
 
-<img src="https://github.com/udexon/DUNIIX/blob/main/img/DUCT_github_issues.png“ width=600>          
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/DUCT_github_issues.png" width=600>          
 
 
