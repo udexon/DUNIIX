@@ -45,6 +45,19 @@ https://github.com/udexon/DUNIIX/blob/main/DONATE/chat_udexon_20210304_230157
 
 We demonstrate how Phoshell may simplify step (3) above, a seemingly trivial but crucial step, which cannot be avoided due to historical development of incompatible software ecosystems (web, back-end, desktop). As such, the significance of Phoshell is more than this trivial example, as we wish to illustrate its applications to unify software development across historically incompatible ecosystems.
 
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/Phos_chrome_py.png" width=600>     
+
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/Phoshell_Chrome.png" width=600>     
+
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/DONATE_pbk.png" width=600>     
+
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/pbk_raw.png" width=600>     
+
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/phos_save_pbk.png" width=600>     
+
+
+- https://github.com/udexon/DUNIIX/blob/main/src/h_save_pbk.py
+
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
 
 
