@@ -25,10 +25,10 @@ There is another way that DUDE can be hosted in an "offline" mode, as illustrate
 4. A uploads DUCT token to the Issues section on Udexon github repository.
 5. As DUNIIX is an ongoing project, additional modules need to be developed after DUCT tokens are generated and exchanged amongst various parties concerned：
 - i. DUCT is a _decentralized cryptographically binding promise between 2 parties_. This is a novel and unprecedented entity from both legal and technical perspectives. It is analogous to signatures on physical paper in legal documents. However, a complete physical payment transaction involve more steps and multiple parties. DUCT can be generated and applied for each of these steps and parties involved. As such additional DUNIIX modules need to be developed to implement these steps for a complete transaction.
-- ii. GUI and development
-- iii. offline, SSH tunnels, DUNIIX cloud DUcloud.
+- ii. DUDE and other DUNIIX modules and apps can be developed and deployed in various operating systems (web, Android, iOS, etc).
+- iii. DUCloud (DUNIIX cloud): DUDE and other DUNIIX modules and apps can be deployed in offline, SSH tunnel, and fixed public IP mode.
 
-This article describes the development of some of the additional DUNIIX modules required to complete a DUDE transaction.
+This article describes the development of some of the additional DUNIIX modules required to complete a DUDE transaction. We introduce Phoshell, a very light weight metaprogramming shell environment that is embeddable as a function in any known programming language or application platform, based on Phoscript, which in turn is derived and inspired by the Forth programming language.
 
 7. 
 
