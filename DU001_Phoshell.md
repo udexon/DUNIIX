@@ -43,6 +43,8 @@ https://github.com/udexon/DUNIIX/blob/main/DONATE/chat_udexon_20210304_230157
 
 6. This article describes the development of some of the additional DUNIIX modules required to complete a DUDE transaction. We introduce Phoshell, a very light weight metaprogramming shell environment that is embeddable as a function in any known programming language or application platform, based on Phoscript, which in turn is derived and inspired by the Forth programming language.
 
+We demonstrate how Phoshell may simplify step (3) above, a seemingly trivial but crucial step, which cannot be avoided due to historical development of incompatible software ecosystems (web, back-end, desktop). As such, the significance of Phoshell is more than this trivial example, as we wish to illustrate its applications to unify software development across historically incompatible ecosystems.
+
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
 
 
