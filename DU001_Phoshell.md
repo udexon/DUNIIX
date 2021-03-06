@@ -28,10 +28,7 @@ There is another way that DUDE can be hosted in an "offline" mode, as illustrate
 - ii. DUDE and other DUNIIX modules and apps can be developed and deployed in various operating systems (web, Android, iOS, etc).
 - iii. DUCloud (DUNIIX cloud): DUDE and other DUNIIX modules and apps can be deployed in offline, SSH tunnel, and fixed public IP mode.
 
-This article describes the development of some of the additional DUNIIX modules required to complete a DUDE transaction. We introduce Phoshell, a very light weight metaprogramming shell environment that is embeddable as a function in any known programming language or application platform, based on Phoscript, which in turn is derived and inspired by the Forth programming language.
-
-7. 
-
+6. This article describes the development of some of the additional DUNIIX modules required to complete a DUDE transaction. We introduce Phoshell, a very light weight metaprogramming shell environment that is embeddable as a function in any known programming language or application platform, based on Phoscript, which in turn is derived and inspired by the Forth programming language.
 
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
 
