@@ -23,7 +23,12 @@ There is another way that DUDE can be hosted in an "offline" mode, as illustrate
 3. A (Mr. Anyone) downloads Udexon PBK, generates DUCT token.
 
 4. A uploads DUCT token to the Issues section on Udexon github repository.
-5. As DUNIIX is an ongoing project, additional modules need to be developed after DUCT tokens are generated and exchanged amongst various parties concerned.
+5. As DUNIIX is an ongoing project, additional modules need to be developed after DUCT tokens are generated and exchanged amongst various parties concerned：
+- i. DUCT is a _decentralized cryptographically binding promise between 2 parties_. This is a novel and unprecedented entity from both legal and technical perspective. It is analogous to signatures on physical paper in legal documents. However, a complete physical payment transaction involve more steps and multiple parties. DUCT can be generated and applied for each of these steps and parties involved.
+- ii. GUI and development
+- iii. offline, SSH tunnels, DUNIIX cloud DUcloud.
+7. 
+
 
 The following screenshots illustrate how a Donor Mr. Anyone may _make a cryptographically binding promise_ to donate USD 10 to Mr. Udexon, the owner of this GitHub account:
 
