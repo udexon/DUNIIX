@@ -4,6 +4,6 @@
 
 <img src="https://github.com/udexon/DUNIIX/blob/main/img/mifaso.png" width=400>
 
-<img src="https://github.com/udexon/DUNIIX/blob/main/img/mifaso_selenium.png" width=400>
+<img src="https://github.com/udexon/DUNIIX/blob/main/img/mifaso_selenium.png" width=600>
 
 
