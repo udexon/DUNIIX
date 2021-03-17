@@ -9,3 +9,9 @@ A journey of a thousand miles begins with a single step.
 - What big ideas can DU004 lead to? 
 
 This question also demonstrates the mechanisms of GoQ: multiple threads can be created to mapped multiple questions, from various perspectives, to one answer.
+
+1. Duniix Recommendation Reward Token (DRRT)
+
+Modify DOM --> create own web page --> DRRT --> Recommend to Others --> Increase Exposures and Sales
+
+DRRT = biggest DUAS app, revolutionize CUAS web
