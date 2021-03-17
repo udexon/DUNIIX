@@ -6,4 +6,6 @@
 
 <img src="https://github.com/udexon/DUNIIX/blob/main/img/mifaso_selenium.png" width=600>
 
-
+```python
+>>> driver.execute_script("document.getElementsByTagName('li')[21].innerText='mifasolasido'")
+```
