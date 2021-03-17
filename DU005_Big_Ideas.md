@@ -8,4 +8,4 @@ A journey of a thousand miles begins with a single step.
 
 - What big ideas can DU004 lead to? 
 
-This question also demonstrates mechanisms of GoQ: multiple threads can be created to mapped multiple questions, from various perspectives, to one answer.
+This question also demonstrates the mechanisms of GoQ: multiple threads can be created to mapped multiple questions, from various perspectives, to one answer.
