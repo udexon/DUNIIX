@@ -37,6 +37,20 @@ to map to multiple answers URI_A*.
 One very useful applications of Graph of Questions
 (GoQ) is the "multithreading" mechanism to sentences within a document.
 
+For example, many users of social media have written many comments over the years.
+Or, prolific writers may have written many blog articles, which may or 
+may or may not have huge exposure.
+
+These comments or sentences within blogs, can be mapped to by
+Graph of Questions, either by the authors themselves 
+creating question entries, or by other users.
+
+As such, each entry in GoQ acts like a "thread"
+mapping to answers or sentences, which would 
+otherwise be "hidden" as there is no other 
+way to link to them, except to exist as part of a document,
+in which case they will be discovered by the reader of the document,
+that is also if the reader has the patience of reading up to said sentences.
 
 
 While there have been questions oriented social networks or websites based on questions, such as Stackoverflow or Quora, they are restricted because the answers given are stored within the same social media.
