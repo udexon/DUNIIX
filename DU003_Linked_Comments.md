@@ -21,5 +21,11 @@ Although the invention of the Uniform Resource Locator (URL) and the Uniform Res
 
 We propose Graph of Questions as a database of questions, whose answers can be found at a sentence identified by a URI, within any web page, addressable by a URL.
 
+While there have been questions oriented social networks or websites based on questions, such as Stackoverflow or Quora, they are restricted because the answers given are stored within the same social media.
+
+Fundamentally, this is dues to the design architecture of Centralized User Authentication Scheme (CUAS).
+
+To change this, Duniix has implemented a Decentralized User Authentication Scheme.
+
 Why no one can do comment linking comment (CLC)? Because there has been no open platform for publishing comments. 
 Even if there is a CLC (comment linking comment) protocol, there is no commercial incentive to do so --- unless coupled with Duniix DUAS Recommendation Reward. Users may earn a reward …. 
