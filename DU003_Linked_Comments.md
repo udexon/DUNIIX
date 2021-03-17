@@ -32,6 +32,13 @@ As such multiple question URI_Q* maybe created to map to one sentence URI_A1.
 Further, multiple sets of questions URI_QS* maybe created by anyone (author of document or others)
 to map to multiple answers URI_A*.
 
+## B. Applications of Graph of Questions
+
+One very useful applications of Graph of Questions
+(GoQ) is the "multithreading" mechanism to sentences within a document.
+
+
+
 While there have been questions oriented social networks or websites based on questions, such as Stackoverflow or Quora, they are restricted because the answers given are stored within the same social media.
 
 Fundamentally, this is dues to the design architecture of Centralized User Authentication Scheme (CUAS).
