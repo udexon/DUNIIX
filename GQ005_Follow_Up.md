@@ -13,3 +13,15 @@ so that the new comment URI (URI1) can be mapped to the original
 
 
 # GQ006: How to implement GQ005?
+
+Use Python Selenium to create a universal social
+media interface, that can post to any social media
+and save in Duniix.
+
+Need mobile version.
+
+Extend existing web phoshell, add DRRT etc.
+
+Incremental improvement, do as training too.
+
+Training is something everyone can understand.
