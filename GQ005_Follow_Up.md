@@ -25,3 +25,6 @@ Extend existing web phoshell, add DRRT etc.
 Incremental improvement, do as training too.
 
 Training is something everyone can understand.
+
+Clone LinkedIn or any shopping sites, offer as
+User own product or service, add DRRT.
