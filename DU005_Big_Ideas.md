@@ -33,3 +33,12 @@ DRRT = biggest DUAS app, revolutionize CUAS web
 #### 4. GoQ, CLC and URJ are closely related. Need to clarify and unify.
 
 <a href="#TOC">First Attempts</a>
+
+
+This is like FAQ. But usually FAQ is made for smaller project scope and with more team members. Duniix is short of man power and the scope is huge.
+
+GoQ implies how our brain process information. A comment is usually an answer, with an implicit question, not shown on social media, because the parties concerned (A and B) understand the context.
+
+GoQ provides an open ended way to describe a project, from multiple perspectives, for multiple audience.
+
+Need to link GoQ, modify DOM to other components and elements of Duniix.
