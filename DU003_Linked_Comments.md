@@ -61,3 +61,6 @@ To change this, Duniix has implemented a Decentralized User Authentication Schem
 
 Why no one can do comment linking comment (CLC)? Because there has been no open platform for publishing comments. 
 Even if there is a CLC (comment linking comment) protocol, there is no commercial incentive to do so --- unless coupled with Duniix DUAS Recommendation Reward. Users may earn a reward …. 
+
+
+## GQ005: [How would an ordinary user follow up on a GoQ question or answer?](https://github.com/udexon/DUNIIX/blob/main/GQ005_Follow_Up.md)
