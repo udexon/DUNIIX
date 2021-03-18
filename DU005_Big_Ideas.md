@@ -27,3 +27,5 @@ DRRT = biggest DUAS app, revolutionize CUAS web
 3. Social media growth demonstrate that people talk (short comments) more than write essay (long articles). GoQ / CLC are mechanisms to link these comments or URJ (Uniform Resource JSON, a generic data structure to represent GoQ, CLC, etc.) so that everyone can have a better way to re-presenting (presenting again) comments that he (she) made yesterday (in the past), because repeat presenting is very important to new target audience, by modifying the context, but still need to easily link to the past comments using URJ.
 
 #### 4. GoQ, CLC and URJ are closely related. Need to clarify and unify.
+
+<a href="#TOC">First Attempts</a>
