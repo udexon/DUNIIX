@@ -28,3 +28,38 @@ and save in Duniix.
 
 6. Clone LinkedIn or any shopping sites, offer as
 User own product or service, add DRRT.
+
+This is the best and complete answer acceptable to 
+everyone. Just need to rewrite better as GQ007.
+
+
+# GQ007: How can Graph of Questions benefit YOU?
+
+1. Learn Duniix programming.
+
+2. Duniix will clone any website, republish
+as your own goods or services.
+
+3. Duniix provides DRRT which rewards anyone
+who helps you recommend or share your web page.
+
+4. Duniix provides a universal interface to all social
+media apps, on web or mobile, where all comments and posts
+can be managed easily, and add new functions and modify
+existing functions.
+
+
+# GQ008: Label and serial number
+
+2 Latin alphabets plus 3 digits is good for
+over 2000 categories and 1000 entries to start with.
+
+The most important effect of numbering is relating the
+current item to its previous items.
+
+
+# GQ009: Benefits of Graph of Questions
+
+With GoQ, I can now add new ideas like social 
+media postings, very productive, instead of worrying
+about essay or article structure.
