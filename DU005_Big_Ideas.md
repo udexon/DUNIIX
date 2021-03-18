@@ -4,9 +4,9 @@ Some big ideas in life begins with small actions.
 
 A journey of a thousand miles begins with a single step.
 
-[DU004](https://github.com/udexon/DUNIIX/blob/main/DU004_Modify_HTML.md) demonstrates a small step of modifying a DOM element in a web page.
+- [DU004](https://github.com/udexon/DUNIIX/blob/main/DU004_Modify_HTML.md) demonstrates a small step of modifying a DOM element in a web page.
 
-- What big ideas can DU004 lead to? 
+### GQ002: What big ideas can DU004 lead to? 
 
 This question also demonstrates the mechanisms of GoQ: multiple threads can be created to mapped multiple questions, from various perspectives, to one answer.
 
@@ -15,3 +15,9 @@ This question also demonstrates the mechanisms of GoQ: multiple threads can be c
 Modify DOM --> create own web page --> DRRT --> Recommend to Others --> Increase Exposures and Sales
 
 DRRT = biggest DUAS app, revolutionize CUAS web
+
+- link to DRRT
+
+2. GoQ / CLC provides an open mechanism and platform to promote (like, upvote, downvote, etc.) or process (follow up, extract, modify, quantify, etc.) comments made in any social network or platform (or any object addressable with URI, including comments).
+
+- GoQ and CLC are two slightly different names describing similar concepts. Need to clarify / unify ??
