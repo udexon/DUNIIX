@@ -69,3 +69,8 @@ GoQ can be used by anyone to organize their notes, social media comments and eve
 Non-sentence notes can be rewritten as complete sentences easily. Then add a GoQ entry. Publish. 
 
 Hence GoQ should have potential and appeal as big as Google.
+
+
+# GQ010: Readers ask "shallow" questions first, then their understanding deepens progressively.
+
+Graph of Questions builds upon experience of social media, where in general, readers understanding start from shallow to deep. As such GoQ provides a format which is efficient for the author &mdash; do not write too much, let readers ask questions, add answers as more questions are asked. In this process, readers' understanding deepens.
