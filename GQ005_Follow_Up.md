@@ -12,4 +12,4 @@ so that the new comment URI (URI1) can be mapped to the original
  URI (URI0).
 
 
-# GQ006: How implement GQ005?
+# GQ006: How to implement GQ005?
