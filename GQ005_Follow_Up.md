@@ -63,3 +63,9 @@ current item to its previous items.
 With GoQ, I can now add new ideas like social 
 media postings, very productive, instead of worrying
 about essay or article structure.
+
+GoQ can be used by anyone to organize their notes, social media comments and even articles.
+
+Non-sentence notes can be rewritten as complete sentences easily. Then add a GoQ entry. Publish. 
+
+Hence GoQ should have potential and appeal as big as Google.
