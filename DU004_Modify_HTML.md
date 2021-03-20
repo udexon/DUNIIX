@@ -1,4 +1,4 @@
-# D004: Modify HTML DOM with Python Selenium
+# DU004: Modify HTML DOM with Python Selenium
 
 1. Removing lines in with `<script>` tag from html file. This is neccessary to display LinkedIn pages locally, by removing active JavaScript code.
 
