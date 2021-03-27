@@ -10,6 +10,7 @@ Prior to the COVID19 pandemic, Asian economies have been growing rapidly that ma
 
 Dateniix is based on a fundamental Duniix module called Duniix Recommendation Omni Incentive Tokens (DROIT), where Party A (Recommender) makes a recommendation to Party B (Referral) using RSA-DSC (decentralized sign and cipher) algorithm. 
 More importantly, Duniix eliminates the need of
-User registration, by emplo
+User registration, one of the biggest nuisances in user experience, by employing (transient) 
+public key cryptography.
 
 Duniix is a novel web and mobile application development framework based on the philosophies of Decentralization and User Centric, hence the prefix DU, together with the suffix NIIX derived from Unix.
