@@ -1,4 +1,4 @@
-# Dateniix: A Dating App with Emphasis on Coaching by Personal Matchmakers
+# Dateniix: A Decentralized Dating App with Emphasis on Coaching by Personal Matchmakers
 
 Dateniix is a dating app with emphasis on coaching by personal matchmakers.
 
@@ -8,6 +8,8 @@ Traditionally, matchmakers play an important role in Asian societies. As western
 
 Prior to the COVID19 pandemic, Asian economies have been growing rapidly that matchmaking was not an issue of concern. In the pandemic stricken 2021 however, matchmaking has unexpectedly become a life saving profession, as its nature is one of those that will help societies overcome times of difficulties. However, of course, this goes against the westernization and liberalization agenda and will be condemned by certain lobbyists.
 
-Dateniix is based on a fundamental Duniix module called Duniix Recommendation Omni Incentive Tokens (DROIT), where Party A (Recommender) makes a recommendation to Party B (Referral) using RSA-DSC (decentralized sign and cipher) algorithm.
+Dateniix is based on a fundamental Duniix module called Duniix Recommendation Omni Incentive Tokens (DROIT), where Party A (Recommender) makes a recommendation to Party B (Referral) using RSA-DSC (decentralized sign and cipher) algorithm. 
+More importantly, Duniix eliminates the need of
+User registration, by emplo
 
 Duniix is a novel web and mobile application development framework based on the philosophies of Decentralization and User Centric, hence the prefix DU, together with the suffix NIIX derived from Unix.
